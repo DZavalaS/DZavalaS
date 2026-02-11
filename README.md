@@ -1,5 +1,5 @@
 # About Me:
-Hi! I'm a Computer Science and Technology student at Tecnológico de Monterrey.<br>💻 I'm passionate about Machine Learning and programming in general, always curious about how things work under the hood.<br> Currently learning, building projects, and constantly improving my skills.<br>🚀 I enjoy turning ideas into code and exploring new technologies along the way.
+Hi! I'm a Computer Science and Technology student at Tecnológico de Monterrey.<br> I'm passionate about Machine Learning and programming in general, always curious about how things work under the hood.<br> Currently learning, building projects, and constantly improving my skills.<br> I enjoy turning ideas into code and exploring new technologies along the way.
 
 
 ##  Socials:
